@@ -1,0 +1,9 @@
+@book{Demuth:2014:NND:2721661,
+ author = {Demuth, Howard B. and Beale, Mark H. and De Jess, Orlando and Hagan, Martin T.},
+ title = {Neural Network Design},
+ year = {2014},
+ isbn = {0971732116, 9780971732117},
+ edition = {2nd},
+ publisher = {Martin Hagan},
+ address = {USA},
+}
